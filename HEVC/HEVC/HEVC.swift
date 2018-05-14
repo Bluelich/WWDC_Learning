@@ -540,7 +540,8 @@ extension HEVC : HEVC_PIC_HEIC, HEVC_PIC_AVCI, HEVC_PIC_HEIF {
         func CGImageSource() {
             /* image Properties e.g.
              "{TIFF}" = {
-                 DateTime = "2017:04:01 22:50:24"; Make = Apple;
+                 DateTime = "2017:04:01 22:50:24";
+                 Make = Apple;
                  Model = "iPhone 7 Plus"; Orientation = 1;
                  ResolutionUnit = 2;
                  Software = "11.0";
